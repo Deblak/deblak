@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**Deblak/deblak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently in a work-study program in Software Design and Development (France). I enjoy building accessible, responsive, and structured web applications.  
+Interests: Design systems · Accessibility · Clean backend architecture
 
-Here are some ideas to get you started:
+#### Currently:
+- Finishing a fullstack music platform (auth, dynamic search, GDPR, MP3 upload)
+- Deepening my knowledge of Spring Security and integration testing
+- Searching for my first full-time developer position
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### Featured Projects
+
+**[jamix-app](https://github.com/deblak/jamix-app)** — Fullstack web platform connecting musicians and bands
+
+**[jamix-bs](https://github.com/deblak/jamix-bs)** — Customized Bootstrap 5 build with Jenkins deployment  
+
+**[linkedin-static-clone](https://github.com/deblak/linkedin-static-clone)** — Static clone of LinkedIn’s 2024 homepage (Bootstrap only)
