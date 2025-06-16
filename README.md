@@ -8,8 +8,6 @@ Interests: Design systems · Accessibility · Clean backend architecture
 - Deepening my knowledge of Spring Security and integration testing
 - Searching for my first full-time developer position
 
----
-
 #### Featured Projects
 
 **[jamix-app](https://github.com/deblak/jamix-app)** — Fullstack web platform connecting musicians and bands
