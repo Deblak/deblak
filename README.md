@@ -3,10 +3,6 @@
 I'm currently in a work-study program in Software Design and Development (France). I enjoy building accessible, responsive, and structured web applications.  
 Interests: Design systems · Accessibility · Clean backend architecture
 
-#### Currently:
-- Finishing a fullstack music platform (auth, dynamic search, GDPR, MP3 upload)
-- Deepening my knowledge of Spring Security and integration testing
-- Searching for my first full-time developer position
 
 #### Featured Projects
 
